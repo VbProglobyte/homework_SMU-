@@ -1,4 +1,4 @@
-# homework_SMU-
+# 1: Code Refactor
 
 Hi! I'm Val Brisendine and I am a new developer out of Dallas. 
 Below is an assignment practicing Refactoring. This assignment was done with HTML and CSS only. 
