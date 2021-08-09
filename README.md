@@ -13,6 +13,7 @@ I learned to keep code clean and to notate with comments effectivly to allow eas
 
 # INSTRUCTIONS : 
 download files and then open index.html 
+
 file:///C:/Users/Doug/Desktop/demo-folder/code/first-day-demo/smu-dal-fsf-pt-07-2021-u-c/smu-dal-fsf-pt-07-2021-u-c/01-HTML-Git-CSS/02-Homework/Develop/index.html#social-media-marketing
 
 Thank you so much for checking it out!
