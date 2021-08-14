@@ -16,3 +16,4 @@ download files and then open index.html
 
 file:///C:/Users/Doug/Desktop/code/Homework/homework_SMU-/index.html
 Thank you so much for checking it out!
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/83515305/129460016-45e576d0-134f-4f57-8ff2-867f191278d5.png)
