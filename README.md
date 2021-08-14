@@ -15,6 +15,7 @@ I learned to keep code clean and to notate with comments effectivly to allow eas
 open the url below 
 
 [URL] https://vbproglobyte.github.io/homework_SMU-/
+
 Thank you so much for checking it out!
 
 ![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/83515305/129460016-45e576d0-134f-4f57-8ff2-867f191278d5.png)
