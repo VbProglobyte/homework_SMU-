@@ -14,7 +14,7 @@ I learned to keep code clean and to notate with comments effectivly to allow eas
 # INSTRUCTIONS : 
 download files and then open index.html 
 
-file:///C:/Users/Doug/Desktop/code/Homework/homework_SMU-/index.html
+[URL] (file:///C:/Users/Doug/Desktop/code/Homework/homework_SMU-/index.html)
 
 Thank you so much for checking it out!
 
