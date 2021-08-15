@@ -12,9 +12,9 @@ I was able to cosolodate quite a bit of the code and to make it more accessible.
 I learned to keep code clean and to notate with comments effectivly to allow easier browsing. I learned that as a developer, considering how people view your content as well as your code is very important.
 
 # INSTRUCTIONS : 
-download files and then open index.html 
+open the url below 
 
-file:///C:/Users/Doug/Desktop/code/Homework/homework_SMU-/index.html
+[URL] https://vbproglobyte.github.io/homework_SMU-/
 
 Thank you so much for checking it out!
 
